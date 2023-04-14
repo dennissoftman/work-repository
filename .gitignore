@@ -1,0 +1,19 @@
+# video files
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.m4a
+
+# executables
+*.exe
+*.dll
+*.app
+*.so
+*.so.*
+*.lib
+
+# logs
+*.log
+*.log.*
+
